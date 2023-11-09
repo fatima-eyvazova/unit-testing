@@ -90,7 +90,7 @@ describe("isEmailValid function", () => {
   });
 });
 
-// 5.Checking date difference
+// 6.Checking date difference
 
 describe("dateDifference function", () => {
   test("day difference between dates", () => {
